@@ -1,4 +1,4 @@
-# 
+# Polymarket premium Algorithm: slippage-control & trade-sniping offers the most advanced Polymarket algorithm, with slippage-control and trade-sniping. Ideal for professional
 
 
 
